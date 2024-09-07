@@ -89,7 +89,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: OUR SERVICES
+      text: Trending Trucks
       color: text-primary
       styles:
         self:
