@@ -49,6 +49,13 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
