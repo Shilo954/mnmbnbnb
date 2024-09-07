@@ -23,7 +23,7 @@
         {
             "label": "Gallery",
             "altText": "Gallery",
-            "url": "/blog",
+            "url": "/gallery",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
