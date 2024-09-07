@@ -51,7 +51,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: MMT
       color: text-dark
       styles:
         self:
