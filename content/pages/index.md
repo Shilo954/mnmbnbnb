@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/b1.jpg
       altText: hero.svg
       elementId: hero.svg
       type: ImageBlock
