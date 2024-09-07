@@ -31,7 +31,7 @@ sections:
         type: Link
     media:
       url: /images/b1.jpg
-      altText: hero
+      altText: hero.svg
       elementId: hero.svg
       type: ImageBlock
     badge:
