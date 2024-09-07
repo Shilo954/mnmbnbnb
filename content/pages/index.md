@@ -31,7 +31,7 @@ sections:
         type: Link
     media:
       url: /images/b1.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: hero
       elementId: ''
       type: ImageBlock
     badge:
