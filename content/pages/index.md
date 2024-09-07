@@ -56,7 +56,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/hero2.svg
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
