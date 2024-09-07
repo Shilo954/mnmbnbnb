@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Where You Find Trucks&Automobile
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      Quality That Endures Beyond Humps\&Challenges Through The Journey
     actions:
       - label: Get started
         altText: ''
