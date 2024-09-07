@@ -32,7 +32,7 @@ sections:
     media:
       url: /images/b1.jpg
       altText: hero
-      elementId: ''
+      elementId: hero.svg
       type: ImageBlock
     badge:
       label: Welcome
