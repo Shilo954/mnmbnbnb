@@ -97,7 +97,7 @@ sections:
             justifyContent: center
         tagline: pre-owned
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: '2023, PeterBilt 389'
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
