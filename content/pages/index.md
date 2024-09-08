@@ -98,7 +98,7 @@ sections:
         tagline: pre-owned
       - type: FeaturedItem
         title: '2023, PeterBilt 389'
-        subtitle: $ 44.99 – $ 90
+        subtitle: '$ 30,500'
         image:
           type: ImageBlock
           url: /images/2023-peterbilt.jpg
