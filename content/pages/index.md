@@ -34,6 +34,9 @@ sections:
       altText: hero.svg
       elementId: hero.svg
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 0
     badge:
       label: Welcome
       color: text-primary
