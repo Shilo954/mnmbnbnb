@@ -72,7 +72,7 @@ sections:
         altText: Mitsubishi logo
         type: ImageBlock
       - url: /images/Yamaha_Motor_Company-Logo.wine.svg
-        altText: Telus logo
+        altText: Yamaha logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
