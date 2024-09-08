@@ -186,13 +186,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
-    title:
-      text: MMT
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: ''
     items:
       - type: FeaturedItem
