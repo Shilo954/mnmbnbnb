@@ -143,6 +143,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/27230.jpg
   - title:
       text: Trending Trucks
       color: text-primary
