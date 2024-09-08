@@ -111,7 +111,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Top BRands
       color: text-dark
   - type: FeaturedItemsSection
     title:
