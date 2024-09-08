@@ -72,6 +72,19 @@ sections:
           fontWeight: 700
     items:
       - type: FeaturedItem
+        title: 2000 Mack mini pickup
+        subtitle: '$32,000'
+        image:
+          type: ImageBlock
+          url: /images/Mack minipickup.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
         title: 2017 Kenworth T680 T/A Sleeper Semi Truck
         subtitle: '$ 10,100'
         image:
@@ -96,19 +109,6 @@ sections:
             flexDirection: col
             justifyContent: center
         tagline: pre-owned
-      - type: FeaturedItem
-        title: 2000 Mack mini pickup
-        subtitle: '$32,000'
-        image:
-          type: ImageBlock
-          url: /images/Mack minipickup.jpg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
       - type: FeaturedItem
         title: '2023, PeterBilt 389'
         subtitle: '$ 30,500'
