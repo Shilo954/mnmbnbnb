@@ -704,6 +704,7 @@ seo:
   metaDescription: MMT Sells Used Trucks and Automobile Parts
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---
