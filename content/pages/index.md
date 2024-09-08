@@ -200,7 +200,7 @@ sections:
         altText: Yamaha logo
         type: ImageBlock
       - url: /images/Michelin-Logo.svg
-        altText: Michelin logo
+        altText: ''
         type: ImageBlock
       - url: /images/Suzuki-Logo.wine.svg
         altText: Suzuki logo
