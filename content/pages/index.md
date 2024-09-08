@@ -137,9 +137,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: >-
-          2017 Kenworth T680 T/A Sleeper Semi Truck Tractor PTO Paccar A/T A/R
-          bidadoo
+      - title: 2017 Kenworth T680 T/A Sleeper Semi Truck
         tagline: 'Pre-Owned: Kenworth'
         subtitle: 'US $10,100.00 18 bidsEnds in 2d 18hWednesday, 12:17 AM'
         text: "*   \_Title: Clear\_GVWR: 50,350 lbs\_GAWR\n\n*   \_Front: 12,350 lbs\_ \n\n*   Rears: 38,000 lbs\_Transmission\_ \n\n*   Type: Automatic\_ \n\n*   Make: Eaton Fuller\_Engine\_ \n\n*   Make: Paccar\_ Fuel \n\n*   Type: Diesel\_\n\n*   Wheelbase: 240\"\_\n\n*   Number of Axles: Tandem\_Dimensions\_ \n\n*   Cab to Axle: 144\"\_ \n\n*   Cab to End of Frame: 235\"\_\n\n*   Suspension Type: Air Ride\_Brake Type: Air\n\n"
