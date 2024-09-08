@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/mmt logo.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "Home",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/27230.jpg",
     "type": "Config",
     "header": "content/data/header.json",
     "defaultMetaTags": [
