@@ -162,7 +162,7 @@ sections:
         type: FeaturedItem
       - title: 2000 Mack mini pickup
         tagline: "Mack mini pickup; Pre-Owned:\_Mack"
-        subtitle: ''
+        subtitle: 'US $32,600.00 Ending '
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
