@@ -37,7 +37,7 @@ sections:
         self:
           borderWidth: 0
           borderStyle: solid
-      url: /images/bg2.jpg
+      url: /images/hero.png
     badge:
       label: Welcome
       color: text-primary
