@@ -212,6 +212,7 @@ sections:
         justifyContent: center
         padding:
           - pr-4
+          - pl-4
       subtitle:
         textAlign: center
         textDecoration: line-through
