@@ -62,7 +62,7 @@ sections:
       opacity: 100
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Peterbilt-Logo.wine.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
