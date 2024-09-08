@@ -60,6 +60,46 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+  - subtitle: Co Brand
+    images:
+      - url: /images/Peterbilt-Logo.wine.svg
+        altText: Peterbilt logo
+        type: ImageBlock
+      - url: /images/Ford_Motor_Company-Logo.wine.svg
+        altText: ford logo
+        type: ImageBlock
+      - url: /images/Mitsubishi_Motors-Logo.wine.svg
+        altText: Mitsubishi logo
+        type: ImageBlock
+      - url: /images/Yamaha_Motor_Company-Logo.wine.svg
+        altText: Yamaha logo
+        type: ImageBlock
+      - url: /images/Michelin-Logo.wine.svg
+        altText: Michelin logo
+        type: ImageBlock
+      - url: /images/Suzuki-Logo.wine.svg
+        altText: Suzuki logo
+        type: ImageBlock
+      - url: /images/GMC_(automobile)-Logo.wine.svg
+        altText: GMC logo
+        type: ImageBlock
+    motion: move-to-right
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    elementId: svg
+    badge:
+      type: Badge
+      label: Top Brands
+      color: text-primary
   - title:
       text: Trending Trucks
       color: text-primary
@@ -185,46 +225,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Co Brand
-    images:
-      - url: /images/Peterbilt-Logo.wine.svg
-        altText: Peterbilt logo
-        type: ImageBlock
-      - url: /images/Ford_Motor_Company-Logo.wine.svg
-        altText: ford logo
-        type: ImageBlock
-      - url: /images/Mitsubishi_Motors-Logo.wine.svg
-        altText: Mitsubishi logo
-        type: ImageBlock
-      - url: /images/Yamaha_Motor_Company-Logo.wine.svg
-        altText: Yamaha logo
-        type: ImageBlock
-      - url: /images/Michelin-Logo.wine.svg
-        altText: Michelin logo
-        type: ImageBlock
-      - url: /images/Suzuki-Logo.wine.svg
-        altText: Suzuki logo
-        type: ImageBlock
-      - url: /images/GMC_(automobile)-Logo.wine.svg
-        altText: GMC logo
-        type: ImageBlock
-    motion: move-to-right
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    elementId: svg
-    badge:
-      type: Badge
-      label: Top Brands
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: MMT
