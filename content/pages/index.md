@@ -160,7 +160,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: 2000 Mack mini pickup
         tagline: "Mack mini pickup; Pre-Owned:\_Mack"
         subtitle: This is the item subtitle
         text: >
