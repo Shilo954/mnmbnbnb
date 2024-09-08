@@ -185,7 +185,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Co Brand
+  - subtitle: Top Brands
     images:
       - url: /images/Peterbilt-Logo.wine.svg
         altText: Peterbilt logo
