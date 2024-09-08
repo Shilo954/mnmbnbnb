@@ -37,7 +37,7 @@ sections:
         self:
           borderWidth: 0
           borderStyle: solid
-      url: /images/hero2.svg
+      url: /images/hero.png
     badge:
       label: Welcome
       color: text-primary
@@ -60,6 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-background.svg
   - title:
       text: Trending Trucks
       color: text-primary
