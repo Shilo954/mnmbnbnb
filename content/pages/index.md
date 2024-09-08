@@ -68,7 +68,7 @@ sections:
       - url: /images/Ford_Motor_Company-Logo.wine.svg
         altText: ford logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Mitsubishi_Motors-Logo.wine.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
