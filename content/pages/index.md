@@ -30,7 +30,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/abstract-background.svg
       altText: hero.png
       elementId: hero.png
       type: ImageBlock
