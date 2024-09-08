@@ -213,6 +213,8 @@ sections:
         padding:
           - pr-4
           - pl-4
+        margin:
+          - mr-2
       subtitle:
         textAlign: center
         textDecoration: line-through
