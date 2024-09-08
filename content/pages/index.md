@@ -71,7 +71,7 @@ sections:
       - url: /images/Mitsubishi_Motors-Logo.wine.svg
         altText: Mitsubishi logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Yamaha_Motor_Company-Logo.wine.svg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
