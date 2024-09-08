@@ -215,6 +215,7 @@ sections:
           - pl-4
         margin:
           - mr-2
+          - ml-2
       subtitle:
         textAlign: center
         textDecoration: line-through
