@@ -93,7 +93,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: BRANDS
+      text: ''
       color: text-dark
   - title:
       text: Trending Trucks
