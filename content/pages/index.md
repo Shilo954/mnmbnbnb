@@ -209,7 +209,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
         padding:
           - pr-40
           - pl-40
