@@ -103,8 +103,21 @@ sections:
       - title: '2023, PeterBilt 389'
         tagline: '$30,500.000 Ending Sep 9 '
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          *   2023 Black Peterbilt 389 Midroof
+
+          *   269,615 miles
+
+          *   Cummins X15 565 HP
+
+          *   18 Speed Manual Eaton Transmission
+
+          *   Pete Low Air leaf Suspension
+
+          *   40k Rears
+
+          *   Wheelbase: 280 in.
+
         image:
           url: /images/2023-peterbilt.jpg
           altText: Placeholder Image
