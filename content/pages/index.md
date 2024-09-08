@@ -60,7 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-feature2.svg
+      url: /images/abstract-background.svg
   - title:
       text: Trending Trucks
       color: text-primary
