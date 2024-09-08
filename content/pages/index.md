@@ -402,7 +402,7 @@ sections:
             - pr-0
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 0
+          borderWidth: 4
           borderRadius: large
       type: VideoBlock
       autoplay: true
