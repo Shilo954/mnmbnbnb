@@ -137,7 +137,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Fea
+      - title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
