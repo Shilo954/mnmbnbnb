@@ -137,7 +137,9 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: >-
+          2017 Kenworth T680 T/A Sleeper Semi Truck Tractor PTO Paccar A/T A/R
+          bidadoo
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
