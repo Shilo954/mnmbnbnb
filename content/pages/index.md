@@ -140,7 +140,7 @@ sections:
       - title: >-
           2017 Kenworth T680 T/A Sleeper Semi Truck Tractor PTO Paccar A/T A/R
           bidadoo
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
