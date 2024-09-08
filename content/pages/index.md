@@ -161,7 +161,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Three
-        tagline: "Mack mini pickupPre-Owned:\_Mack"
+        tagline: "Mack mini pickup; Pre-Owned:\_Mack"
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
