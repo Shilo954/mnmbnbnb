@@ -211,10 +211,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pr-4
-          - pl-4
-          - pt-4
-          - pb-4
+          - pr-16
+          - pl-16
+          - pt-16
+          - pb-16
         margin:
           - mr-4
           - ml-4
