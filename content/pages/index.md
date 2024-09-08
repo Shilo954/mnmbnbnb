@@ -65,7 +65,7 @@ sections:
       - url: /images/Peterbilt-Logo.wine.svg
         altText: Peterbilt logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Ford_Motor_Company-Logo.wine.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
