@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Categories
 slug: careers
 sections:
   - title:
