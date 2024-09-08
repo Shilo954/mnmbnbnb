@@ -102,7 +102,7 @@ sections:
     items:
       - title: '2023, PeterBilt 389'
         tagline: '$30,500.000 Ending Sep 9 '
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
