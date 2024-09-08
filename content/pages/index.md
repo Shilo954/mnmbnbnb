@@ -69,7 +69,7 @@ sections:
         altText: ford logo
         type: ImageBlock
       - url: /images/Mitsubishi_Motors-Logo.wine.svg
-        altText: Vise logo
+        altText: Mitsubishi logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
