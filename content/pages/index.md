@@ -64,7 +64,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/ford.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
