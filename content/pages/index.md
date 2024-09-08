@@ -101,7 +101,7 @@ sections:
     subtitle: ''
     items:
       - title: Feature Item One
-        tagline: ''
+        tagline: '$30,500.000 Ending Sep 9 '
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
