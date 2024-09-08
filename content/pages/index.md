@@ -221,10 +221,6 @@ sections:
       text: ''
       color: text-dark
     elementId: svg
-    badge:
-      type: Badge
-      label: Top Brands
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: MMT
