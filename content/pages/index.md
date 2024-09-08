@@ -37,6 +37,7 @@ sections:
         self:
           borderWidth: 0
           borderStyle: solid
+      url: /images/b1.jpg
     badge:
       label: Welcome
       color: text-primary
