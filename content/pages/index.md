@@ -110,7 +110,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: 2000 Mack mini pickup
         subtitle: $117
         image:
           type: ImageBlock
