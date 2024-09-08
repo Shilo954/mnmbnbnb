@@ -189,6 +189,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'http://wa.me/15593731848'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - title: 2017 Kenworth T680 T/A Sleeper Semi Truck
         tagline: 'Pre-Owned: Kenworth'
         subtitle: 'US $10,100.00 Ending in 2d'
