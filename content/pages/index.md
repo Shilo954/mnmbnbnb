@@ -32,7 +32,7 @@ sections:
     media:
       url: /images/trucks.jpg
       altText: hero.png
-      elementId: hero.svg
+      elementId: hero.png
       type: ImageBlock
       styles:
         self:
