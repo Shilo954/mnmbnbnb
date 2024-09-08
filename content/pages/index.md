@@ -111,7 +111,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: 2000 Mack mini pickup
-        subtitle: $117
+        subtitle: '$32,000'
         image:
           type: ImageBlock
           url: /images/Mack minipickup.jpg
