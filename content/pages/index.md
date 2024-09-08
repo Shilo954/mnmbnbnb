@@ -219,7 +219,7 @@ sections:
           - mr-0
           - ml-0
           - mt-0
-          - mb-0
+          - mb-12
       subtitle:
         textAlign: center
         textDecoration: line-through
