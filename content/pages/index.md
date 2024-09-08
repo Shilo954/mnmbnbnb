@@ -214,10 +214,10 @@ sections:
           - pr-4
           - pl-4
         margin:
-          - mr-1
-          - ml-1
-          - mt-1
-          - mb-1
+          - mr-4
+          - ml-4
+          - mt-4
+          - mb-4
       subtitle:
         textAlign: center
         textDecoration: line-through
