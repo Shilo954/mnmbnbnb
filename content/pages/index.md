@@ -308,7 +308,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Magic Milles Trucks
-  metaDescription: MMT Sells Used Trucks and Automobile Parts
+  metaDescription: ''
   socialImage: /images/background-grid.svg
   type: Seo
   addTitleSuffix: true
