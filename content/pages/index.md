@@ -216,10 +216,10 @@ sections:
           - pt-96
           - pb-96
         margin:
-          - mr-32
-          - ml-32
-          - mt-64
-          - mb-64
+          - mr-0
+          - ml-0
+          - mt-0
+          - mb-0
       subtitle:
         textAlign: center
         textDecoration: line-through
