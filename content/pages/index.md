@@ -81,7 +81,7 @@ sections:
         altText: Suzuki logo
         type: ImageBlock
       - url: /images/GMC_(automobile)-Logo.wine.svg
-        altText: Rangle logo
+        altText: GMC logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-neutral-fg-dark
