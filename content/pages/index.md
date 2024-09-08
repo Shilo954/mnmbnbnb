@@ -78,7 +78,7 @@ sections:
         altText: Michelin logo
         type: ImageBlock
       - url: /images/Suzuki-Logo.wine.svg
-        altText: Sanity logo
+        altText: Suzuki logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
