@@ -123,7 +123,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: right
           fontWeight: 700
     items:
       - type: FeaturedItem
