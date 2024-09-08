@@ -100,7 +100,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: '2023, PeterBilt'
+      - title: '2023, PeterBilt 389'
         tagline: '$30,500.000 Ending Sep 9 '
         subtitle: This is the item subtitle
         text: |
