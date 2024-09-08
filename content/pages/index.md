@@ -69,6 +69,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     items:
       - type: FeaturedItem
         title: 2017 Kenworth T680 T/A Sleeper Semi Truck
