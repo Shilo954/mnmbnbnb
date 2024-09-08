@@ -80,7 +80,7 @@ sections:
       - url: /images/Suzuki-Logo.wine.svg
         altText: Suzuki logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/GMC_(automobile)-Logo.wine.svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
