@@ -168,7 +168,7 @@ sections:
           site.
         image:
           url: /images/Mack minipickup.jpg
-          altText: Placeholder image
+          altText: ''
           styles:
             self:
               borderRadius: x-large
