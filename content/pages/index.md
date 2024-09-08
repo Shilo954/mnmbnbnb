@@ -115,7 +115,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: right
+          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
