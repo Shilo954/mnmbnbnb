@@ -77,7 +77,7 @@ sections:
       - url: /images/Michelin-Logo.wine.svg
         altText: Michelin logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Suzuki-Logo.wine.svg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
