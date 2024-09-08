@@ -96,6 +96,10 @@ sections:
       text: ''
       color: text-dark
     elementId: svg
+    badge:
+      type: Badge
+      label: Top Brands
+      color: text-primary
   - title:
       text: Trending Trucks
       color: text-primary
