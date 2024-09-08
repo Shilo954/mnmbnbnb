@@ -101,7 +101,7 @@ sections:
     subtitle: ''
     items:
       - title: '2023, PeterBilt 389'
-        tagline: '$30,500.000 Ending Sep 9 '
+        tagline: used
         subtitle: '$30,500.000 Ending Sep 9 at 8:55AM PDT1d 14h'
         text: |+
           *   2023 Black Peterbilt 389 Midroof
