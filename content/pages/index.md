@@ -141,7 +141,7 @@ sections:
           2017 Kenworth T680 T/A Sleeper Semi Truck Tractor PTO Paccar A/T A/R
           bidadoo
         tagline: 'Pre-Owned: Kenworth'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
