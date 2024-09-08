@@ -199,11 +199,11 @@ sections:
       - url: /images/Yamaha_Motor_Company-Logo.wine.svg
         altText: Yamaha logo
         type: ImageBlock
-      - url: /images/Mercedes-Benz-Logo.wine.svg
-        altText: ''
-        type: ImageBlock
       - url: /images/Suzuki-Logo.wine.svg
         altText: Suzuki logo
+        type: ImageBlock
+      - url: /images/Mercedes-Benz-Logo.wine.svg
+        altText: ''
         type: ImageBlock
     motion: move-to-right
     colors: bg-neutral-fg-dark
