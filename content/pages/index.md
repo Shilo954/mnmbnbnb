@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MagicMiles Trucks
 slug: /
 sections:
   - type: GenericSection
@@ -199,27 +199,27 @@ sections:
       - url: /images/Yamaha_Motor_Company-Logo.wine.svg
         altText: Yamaha logo
         type: ImageBlock
-      - url: /images/Mercedes-Benz-Logo.wine.svg
-        altText: ''
-        type: ImageBlock
       - url: /images/Suzuki-Logo.wine.svg
         altText: Suzuki logo
+        type: ImageBlock
+      - url: /images/Mercedes-Benz-Logo.wine.svg
+        altText: ''
         type: ImageBlock
     motion: move-to-right
     colors: bg-neutral-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
         padding:
-          - pr-32
-          - pl-32
-          - pt-32
-          - pb-32
+          - pr-40
+          - pl-40
+          - pt-96
+          - pb-96
         margin:
-          - mr-32
-          - ml-32
-          - mt-64
-          - mb-64
+          - mr-0
+          - ml-0
+          - mt-0
+          - mb-12
       subtitle:
         textAlign: center
         textDecoration: line-through
@@ -228,7 +228,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    elementId: svg
+    elementId: ''
   - type: FeaturedItemsSection
     title:
       text: MMT
@@ -804,4 +804,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
