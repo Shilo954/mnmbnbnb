@@ -61,7 +61,7 @@ sections:
       opacity: 100
       url: /images/wallpaperflare.com_wallpaper (2).jpg
   - type: ImageGallerySection
-    subtitle: Brands
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
