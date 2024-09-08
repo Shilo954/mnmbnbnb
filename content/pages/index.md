@@ -219,7 +219,7 @@ sections:
           - mr-32
           - ml-32
           - mt-32
-          - mb-32
+          - mb-64
       subtitle:
         textAlign: center
         textDecoration: line-through
