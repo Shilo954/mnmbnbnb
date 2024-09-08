@@ -205,9 +205,6 @@ sections:
       - url: /images/Suzuki-Logo.wine.svg
         altText: Suzuki logo
         type: ImageBlock
-      - url: /images/GMC_(automobile)-Logo.wine.svg
-        altText: GMC logo
-        type: ImageBlock
     motion: move-to-right
     colors: bg-neutral-fg-dark
     styles:
