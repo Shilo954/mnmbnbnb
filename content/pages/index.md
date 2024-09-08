@@ -113,6 +113,9 @@ sections:
       type: TitleBlock
       text: Top Brands
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
