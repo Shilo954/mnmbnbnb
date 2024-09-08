@@ -66,6 +66,64 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/wallpaperflare.com_wallpaper (2).jpg
+  - type: GenericSection
+    title:
+      text: MagicMilles Trucks
+      color: text-dark
+      type: TitleBlock
+    subtitle: Where You Find Trucks&Automobile
+    text: |
+      Quality That Endures Beyond Humps\&Challenges Through The Journey
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: About Us
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      altText: hero.png
+      elementId: hero.png
+      type: ImageBlock
+      styles:
+        self:
+          borderWidth: 0
+          borderStyle: solid
+    badge:
+      label: Welcome
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: 'Background '
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/wallpaperflare.com_wallpaper (2).jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -149,64 +207,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/27230.jpg
-  - type: GenericSection
-    title:
-      text: MagicMilles Trucks
-      color: text-dark
-      type: TitleBlock
-    subtitle: Where You Find Trucks&Automobile
-    text: |
-      Quality That Endures Beyond Humps\&Challenges Through The Journey
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: About Us
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      altText: hero.png
-      elementId: hero.png
-      type: ImageBlock
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: solid
-    badge:
-      label: Welcome
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: 'Background '
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/wallpaperflare.com_wallpaper (2).jpg
   - title:
       text: Trending Trucks
       color: text-primary
