@@ -60,7 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Co Brands
     images:
       - url: /images/Peterbilt-Logo.wine.svg
         altText: Peterbilt logo
