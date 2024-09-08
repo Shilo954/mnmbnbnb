@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/mmt logo.png",
         "altText": "Logo ",
         "type": "ImageBlock"
     },
