@@ -60,6 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/background-grid.svg
   - title:
       text: Trending Trucks
       color: text-primary
