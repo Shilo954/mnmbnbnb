@@ -141,7 +141,7 @@ sections:
           2017 Kenworth T680 T/A Sleeper Semi Truck Tractor PTO Paccar A/T A/R
           bidadoo
         tagline: 'Pre-Owned: Kenworth'
-        subtitle: ''
+        subtitle: 'US $10,100.00 18 bidsEnds in 2d 18hWednesday, 12:17 AM'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
