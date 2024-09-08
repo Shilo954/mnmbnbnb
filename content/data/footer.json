@@ -1,10 +1,9 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "altText": "Logo ",
         "type": "ImageBlock"
     },
-    "text": "Endurance With Quality\n",
+    "text": "\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -40,17 +39,9 @@
         "title": "Magic Milles trucks",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "+1 516-853-2611",
+                "altText": "",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -60,12 +51,6 @@
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
