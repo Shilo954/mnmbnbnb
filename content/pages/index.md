@@ -75,7 +75,7 @@ sections:
         altText: Yamaha logo
         type: ImageBlock
       - url: /images/Michelin-Logo.wine.svg
-        altText: Contentful logo
+        altText: Michelin logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
