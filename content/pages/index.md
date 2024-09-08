@@ -63,7 +63,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/Peterbilt-Logo.wine.svg
-        altText: Empathy logo
+        altText: Peterbilt logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
