@@ -228,7 +228,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    elementId: svg
+    elementId: ''
   - type: FeaturedItemsSection
     title:
       text: MMT
