@@ -210,6 +210,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pr-4
       subtitle:
         textAlign: center
         textDecoration: line-through
