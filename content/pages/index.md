@@ -60,7 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: Co Brands
+  - subtitle: <h4>Co Brands</h4>
     images:
       - url: /images/Peterbilt-Logo.wine.svg
         altText: Peterbilt logo
