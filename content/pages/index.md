@@ -214,7 +214,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: justify
+        textAlign: center
     type: ImageGallerySection
     title:
       type: TitleBlock
