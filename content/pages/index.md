@@ -71,7 +71,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: ''
+        title: 2017 Kenworth T680 T/A Sleeper Semi Truck
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
