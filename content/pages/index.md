@@ -276,6 +276,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/27230.jpg
   - type: FeaturedItemsSection
     subtitle: ''
     items:
