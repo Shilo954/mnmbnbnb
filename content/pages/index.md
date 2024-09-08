@@ -199,7 +199,7 @@ sections:
       - url: /images/Yamaha_Motor_Company-Logo.wine.svg
         altText: Yamaha logo
         type: ImageBlock
-      - url: /images/Michelin-Logo.wine.svg
+      - url: /images/Michelin-Logo.svg
         altText: Michelin logo
         type: ImageBlock
       - url: /images/Suzuki-Logo.wine.svg
