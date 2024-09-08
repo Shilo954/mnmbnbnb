@@ -61,6 +61,81 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Trucks on sale
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+    items:
+      - type: FeaturedItem
+        title: 2000 Mack mini pickup
+        subtitle: '$32,000'
+        image:
+          type: ImageBlock
+          url: /images/Mack minipickup.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: 2017 Kenworth T680 T/A Sleeper Semi Truck
+        subtitle: '$ 10,100'
+        image:
+          type: ImageBlock
+          url: /images/2017 Kenworth T680.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        tagline: pre-owned
+      - type: FeaturedItem
+        title: '2023, PeterBilt 389'
+        subtitle: '$ 30,500'
+        image:
+          type: ImageBlock
+          url: /images/2023-peterbilt.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
   - title:
       text: Trending Trucks
       color: text-primary
@@ -308,7 +383,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Magic Milles Trucks
-  metaDescription: MMT Sells Used Trucks and Automobile Parts
+  metaDescription: ''
   socialImage: /images/background-grid.svg
   type: Seo
   addTitleSuffix: true
