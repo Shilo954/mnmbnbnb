@@ -94,6 +94,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: pre-owned
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
