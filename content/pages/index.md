@@ -37,6 +37,7 @@ sections:
       styles:
         self:
           borderWidth: 0
+          borderStyle: solid
     badge:
       label: Welcome
       color: text-primary
