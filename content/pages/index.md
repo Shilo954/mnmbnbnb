@@ -83,7 +83,7 @@ sections:
       - url: /images/GMC_(automobile)-Logo.wine.svg
         altText: GMC logo
         type: ImageBlock
-    motion: move-to-left
+    motion: move-to-right
     colors: bg-neutral-fg-dark
     styles:
       self:
