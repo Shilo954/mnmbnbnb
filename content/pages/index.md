@@ -209,7 +209,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
         textDecoration: line-through
