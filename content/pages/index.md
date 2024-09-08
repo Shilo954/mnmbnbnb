@@ -31,7 +31,7 @@ sections:
         type: Link
     media:
       url: /images/trucks.jpg
-      altText: hero.svg
+      altText: hero.png
       elementId: hero.svg
       type: ImageBlock
       styles:
