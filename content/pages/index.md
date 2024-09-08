@@ -95,6 +95,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
+    elementId: svg
   - title:
       text: Trending Trucks
       color: text-primary
