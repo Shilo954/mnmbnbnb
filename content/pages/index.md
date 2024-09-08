@@ -97,12 +97,12 @@ sections:
             justifyContent: center
         tagline: pre-owned
       - type: FeaturedItem
-        title: '2023, PeterBilt 389'
-        subtitle: '$ 30,500'
+        title: 2000 Mack mini pickup
+        subtitle: '$32,000'
         image:
           type: ImageBlock
-          url: /images/2023-peterbilt.jpg
-          altText: Cotton Knit Throws
+          url: /images/Mack minipickup.jpg
+          altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
             self:
@@ -110,12 +110,12 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: 2000 Mack mini pickup
-        subtitle: '$32,000'
+        title: '2023, PeterBilt 389'
+        subtitle: '$ 30,500'
         image:
           type: ImageBlock
-          url: /images/Mack minipickup.jpg
-          altText: Chunky Cotton Knit Throw
+          url: /images/2023-peterbilt.jpg
+          altText: Cotton Knit Throws
           elementId: ''
           styles:
             self:
