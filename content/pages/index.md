@@ -163,9 +163,27 @@ sections:
       - title: 2000 Mack mini pickup
         tagline: "Mack mini pickup; Pre-Owned:\_Mack"
         subtitle: 'US $32,600.00 Ending in 28d 21h'
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |+
+          *   Mini Mack 
+
+          *   \- 36 inch sleeperSet on 86 
+
+          *   Chevy 1 ton chassisCM Body with goose neck 
+
+          *   pull behind77,500 miles350 Motor400 
+
+          *   Transmission (rebuilt)342 Gears16 inch 
+
+          *   Alco aluminum wheelsNew tires
+
+          *   Pete Jackson timing gears
+
+          *   New radiator
+
+          *   New water pump/belts/hosesNew spark plugs & wiresNew shocks
+
+          *   Does not have AC
+
         image:
           url: /images/Mack minipickup.jpg
           altText: ft.jpg
