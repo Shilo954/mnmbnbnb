@@ -217,7 +217,7 @@ sections:
           - mr-4
           - ml-4
           - mt-9
-          - mb-4
+          - mb-9
       subtitle:
         textAlign: center
         textDecoration: line-through
