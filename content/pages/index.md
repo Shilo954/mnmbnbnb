@@ -93,7 +93,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: GET FROM THE BEST
       color: text-dark
   - title:
       text: Trending Trucks
