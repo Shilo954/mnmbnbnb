@@ -215,6 +215,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        textDecoration: line-through
     type: ImageGallerySection
     title:
       type: TitleBlock
