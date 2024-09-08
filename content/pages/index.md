@@ -60,7 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/27230.jpg
+      url: /images/wallpaperflare.com_wallpaper (2).jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
