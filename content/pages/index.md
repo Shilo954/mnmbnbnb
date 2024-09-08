@@ -218,7 +218,7 @@ sections:
         margin:
           - mr-32
           - ml-32
-          - mt-32
+          - mt-64
           - mb-64
       subtitle:
         textAlign: center
