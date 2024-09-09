@@ -3,53 +3,7 @@
         "altText": "Logo ",
         "type": "ImageBlock"
     },
-    "text": "\n\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Magic Milles trucks",
-        "links": [
-            {
-                "label": "+1 516-853-2611",
-                "altText": "",
-                "url": "",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "<div style=\"text-align: center\">##### \\*\\*\\*114 Wood St, LIMA, OH 45804, UNITED STATES \\~ <info@magicmilles.com> \\~  (+1) 523\\*\\*\\*</info@magicmilles.com></div>\n\n",
     "socialLinks": [
         {
             "altText": "Twitter link",
@@ -58,16 +12,17 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -90,5 +45,6 @@
     ],
     "copyrightText": "Powered by Chase Tech\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Magic Milles Trucks"
 }
