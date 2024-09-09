@@ -59,7 +59,7 @@
                     "type": "Link",
                     "label": "Send Mail",
                     "altText": "",
-                    "url": "/",
+                    "url": "/contacts",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
