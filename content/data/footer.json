@@ -44,7 +44,7 @@
         }
     ],
     "copyrightText": "Powered by Chase Tech\n",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer",
     "title": "Magic Milles Trucks"
 }
