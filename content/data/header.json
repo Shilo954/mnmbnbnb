@@ -68,7 +68,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "L",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
