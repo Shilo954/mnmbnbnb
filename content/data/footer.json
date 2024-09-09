@@ -4,21 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "\n\n",
-    "secondaryLinks": {
-        "title": "Magic Milles trucks",
-        "links": [
-            {
-                "label": "+1 516-853-2611",
-                "altText": "",
-                "url": "",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Twitter link",
