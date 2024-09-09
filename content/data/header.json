@@ -70,7 +70,7 @@
                     "type": "Link",
                     "label": "Locations",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Contacts",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
