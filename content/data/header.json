@@ -41,7 +41,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Cc",
+            "label": "Contacts",
             "altText": "Dropdown",
             "links": [
                 {
