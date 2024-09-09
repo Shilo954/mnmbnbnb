@@ -46,7 +46,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Voice  Call",
+                    "label": "Call ",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
