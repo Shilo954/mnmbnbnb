@@ -41,14 +41,14 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Connect",
             "altText": "Dropdown",
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Call ",
                     "altText": "",
-                    "url": "/",
+                    "url": "/contacts",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,9 +57,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Send Mail",
                     "altText": "",
-                    "url": "/",
+                    "url": "/contacts",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -68,9 +68,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Locations",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Contacts",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

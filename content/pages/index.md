@@ -48,10 +48,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-40
+          - pl-40
+          - pb-40
+          - pr-40
     backgroundImage:
       type: BackgroundImage
       altText: 'Background '
@@ -60,62 +60,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/wallpaperflare.com_wallpaper (2).jpg
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    title:
-      type: TitleBlock
-      text: Top Brands
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
