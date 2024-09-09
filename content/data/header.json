@@ -57,7 +57,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Send Mail",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
